@@ -1,6 +1,11 @@
 <template>
+
   <div id="app">
+
     <h1>葛妍创建了项目2</h1>
+
+    <p>我改了app</p>
+
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
